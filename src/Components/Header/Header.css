@@ -1,0 +1,9 @@
+nav a:hover{
+    color:#DD580C;
+}
+nav a{
+    color:white;
+}
+nav a.active{
+    color:#DD580C;
+}
